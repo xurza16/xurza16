@@ -1,16 +1,23 @@
-## Hi there 👋
+# xurza16
 
-<!--
-**xurza16/xurza16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+嵌入式开发 · 项目记录 · 学习笔记
 
-Here are some ideas to get you started:
+个人介绍整理中。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技术方向
+
+- **MCU 与 RTOS** — C、STM32、FreeRTOS
+- **控制与通信** — PID、UART、I²C、SPI
+- **开发与调试** — Git、GDB、示波器、逻辑分析仪
+
+## 代表项目
+
+| 项目 | 内容 | 验证状态 |
+| --- | --- | --- |
+| 项目整理中 | 后续补充项目介绍与仓库链接 | — |
+
+## 背景
+
+教育与经历整理中。
+
+<!-- 排版参考 https://github.com/finnyoun9 。技术方向为参考内容，请按自己的实际情况调整；个人介绍、项目、背景和联系方式可在此文件中逐步补充。 -->
